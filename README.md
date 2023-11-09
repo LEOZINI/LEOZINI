@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**LEOZINI/LEOZINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**LEOZINI/LEOZINI** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Atualmente estou estudando `HTML´ e `CSS´.
+- 👨‍🎓 Aluno do Curso Manutenção e Suporte em Informática.
+- 📧 Email para contato: leooliveira101112@gmail.com
+-💻Estou trablhando em um projeto de HTML.
+
+![](https://media.tenor.com/K4ruSdBYWLkAAAAM/globolinha-neymar.gif)
+
+
